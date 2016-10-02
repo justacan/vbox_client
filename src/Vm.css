@@ -1,0 +1,23 @@
+@font-face {
+    font-family: "Moonhouse";
+    src: url(/fonts/moonhouse.ttf) format("truetype");
+}
+.Vm h1 { 
+    font-family: "Moonhouse", Verdana, Tahoma;
+}
+
+.Vm .well-sm {
+    border-color: #2a9fd6;
+}
+
+.Vm p {
+    color: white;
+}
+
+.Vm th, td {
+    text-align: center;
+}
+
+#vm-status {
+    font-size: 22px;    
+}
